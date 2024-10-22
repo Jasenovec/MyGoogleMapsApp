@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyGoogleMapsApp</string>
+    <string name="hint_search">Buscar lugar</string>
+    <string name="btn_search">Buscar</string>
+    <string name="btn_change_map_type">Cambiar Mapa</string>
+</resources>
